@@ -1,0 +1,44 @@
+*{
+	margin:10px;
+	padding;10px;
+}
+body{
+	background=color:#003333;
+	color=#ffffff;
+}
+header{
+	height:75px;
+	background: red;
+}
+nav{
+	background: orange;
+	height: 50px;
+}
+section{
+	background: green;
+	height: 400px;
+	width: 800px;
+	float: left;
+	margin: left: 5px;
+	border-radius: 20px
+}
+aside{
+	background: pink;
+	height: 400px;
+	width: 380px;
+	float: right;
+	border-radius: 20px;
+}
+footer{
+	background: yellow;
+	height: 100px;
+
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+h2{
+	text-align: center;
+	font-size: 20px;
+}
